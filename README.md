@@ -30,3 +30,6 @@ docker exec -it angularjs-01 /bin/bash
 ## Copyright and license:
 This project is licensed under Apache License Version 2 see 
 the [LICENSE](https://github.com/mlatzko/docker-angularjs-container/blob/master/LICENSE) file.
+
+## Hat-Tip
+* [@amandiel](https://github.com/amandiel)
