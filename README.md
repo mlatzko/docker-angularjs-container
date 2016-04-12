@@ -17,6 +17,11 @@ docker run --name angularjs-01 -p 80:80 -v "/srv/[project path]:/srv/www" -d doc
 docker exec -it angularjs-01 /bin/bash
 ```
 
+## Removing container
+```
+docker rm -f angularjs-01
+```
+
 ## Container based on
 * [ubuntu:14.04](https://hub.docker.com/_/ubuntu/)
 
