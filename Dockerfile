@@ -29,6 +29,9 @@ RUN dpkg-reconfigure -f noninteractive tzdata \
         nodejs \
         npm \
         nginx-core \
+        php5 \
+        php5-cli \
+        php5-fpm \
         git \
     && apt-get -y remove \
         vim-tiny \

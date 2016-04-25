@@ -27,6 +27,8 @@ docker rm -f angularjs-01
 
 ## Bundled Software:
 * [Nginx](https://www.nginx.com/) a web server
+* [php-fpm](http://php-fpm.org/) a FastCGI process manager
+* [php](http://php.net/) a popular general-purpose scripting language
 * [Node.js](https://nodejs.org/en/) a JavaScript runtime
 * [Bower](http://bower.io/) a package manager
 * [Less](http://lesscss.org/) a CSS pre-processor
